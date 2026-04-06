@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supabase-tesis": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp?project_ref=fznxirvzcdfxsioacbnt&features=database%2Cfunctions%2Cdebugging%2Cbranching%2Cstorage%2Cdevelopment%2Cdocs"
+    }
+  }
+}

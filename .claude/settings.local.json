@@ -2,7 +2,17 @@
   "permissions": {
     "allow": [
       "mcp__PDF_Tools_-_Fill__Analyze__Extract__View__read_pdf_content",
-      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --use-npm)"
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --use-npm)",
+      "Bash(npm install:*)",
+      "mcp__supabase__get_project_url",
+      "mcp__supabase__get_publishable_keys",
+      "Bash(npx next:*)",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__supabase__search_docs",
+      "Bash(grep -E \"\\\\.\\(sql|ts\\)$|migrations|supabase\")",
+      "mcp__bb116276-bc0d-4784-ae62-d338492ec748__list_tables",
+      "mcp__bb116276-bc0d-4784-ae62-d338492ec748__list_migrations",
+      "mcp__bb116276-bc0d-4784-ae62-d338492ec748__execute_sql"
     ]
   }
 }
