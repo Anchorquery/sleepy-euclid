@@ -10,10 +10,9 @@
       "mcp__Claude_Preview__preview_start",
       "mcp__supabase__search_docs",
       "Bash(grep -E \"\\\\.\\(sql|ts\\)$|migrations|supabase\")",
-      "mcp__supabase-tesis__apply_migration",
-      "mcp__supabase-tesis__execute_sql",
-      "mcp__supabase-tesis__get_project_url",
-      "mcp__supabase-tesis__get_publishable_keys"
+      "mcp__bb116276-bc0d-4784-ae62-d338492ec748__list_tables",
+      "mcp__bb116276-bc0d-4784-ae62-d338492ec748__list_migrations",
+      "mcp__bb116276-bc0d-4784-ae62-d338492ec748__execute_sql"
     ]
   }
 }
